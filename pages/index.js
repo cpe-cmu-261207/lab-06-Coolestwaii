@@ -52,7 +52,7 @@ export default function Home() {
 
       {/* made by section */}
       <p className="text-center mt-3 text-muted fst-italic">
-        made by Patrasorn Khantipongse 6406110657
+        made by Patrasorn Khantipongse 640610657
       </p>
     </div>
   );
